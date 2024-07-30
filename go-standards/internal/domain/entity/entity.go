@@ -1,0 +1,1 @@
+package entity // neste caso seguir o padrão do nome da pasta
